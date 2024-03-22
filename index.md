@@ -4,4 +4,14 @@ Modificaciones:
 
 Imagenes:  
 ![Yakcat](https://octodex.github.com/images/yaktocat.png)
+
+Ejemplo de codigo:
+
+```
+#include <stdio.h>
+int main(void){
+  printf("Hola\n");
+  return 0;
+}
+```
 #### fin
