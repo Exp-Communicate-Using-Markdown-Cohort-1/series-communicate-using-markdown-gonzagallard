@@ -14,10 +14,7 @@ int main(void){
   return 0;
 }
 ```
-Pasos completados:
-- [x] Headers
-- [x] items
-- [x] images
-- [x] example of code
-
-#### fin
+- [ ] Headers
+- [ ] items
+- [ ] images
+- [ ] example of code
